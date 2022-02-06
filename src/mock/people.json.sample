@@ -1,0 +1,42 @@
+[
+  {
+    "name": "조이현",
+    "nickname": "남라",
+    "birth": {
+      "year": 1999,
+      "month": 12,
+      "day": 8
+    },
+    "tags": ["지금 우리 학교는"]
+  },
+  {
+    "name": "박지후",
+    "nickname": "온조",
+    "birth": {
+      "year": 2003,
+      "month": 11,
+      "day": 7
+    },
+    "pets": [
+      {
+        "name": "멍멍이",
+        "birth": {
+          "year": 2020,
+          "month": 4,
+          "day": 29
+        }
+      }
+    ],
+    "tags": ["지금 우리 학교는"]
+  },
+  {
+    "name": "이유미",
+    "nickname": "나연",
+    "birth": {
+      "year": 1994,
+      "month": 7,
+      "day": 18
+    },
+    "tags": ["지금 우리 학교는"]
+  }
+]
